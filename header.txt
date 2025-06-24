@@ -1,0 +1,56 @@
+Received: from CY1PR0701MB1819.namprd07.prod.outlook.com (10.163.42.152) by
+ SN1PR0701MB1822.namprd07.prod.outlook.com (10.162.100.151) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.1240.13 via
+ Mailbox Transport; Wed, 12 Jul 2017 22:49:17 +0000
+Received: from SN1PR0701CA0032.namprd07.prod.outlook.com (10.162.96.42) by
+ CY1PR0701MB1819.namprd07.prod.outlook.com (10.163.42.152) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1261.13; Wed, 12 Jul 2017 22:49:16 +0000
+Received: from BY2NAM01FT042.eop-nam01.prod.protection.outlook.com
+ (2a01:111:f400:7e42::203) by SN1PR0701CA0032.outlook.office365.com
+ (2a01:111:e400:5173::42) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.1261.13 via
+ Frontend Transport; Wed, 12 Jul 2017 22:49:16 +0000
+Authentication-Results: spf=none (sender IP is 148.163.152.157)
+ smtp.mailfrom=loki.ist.unomaha.edu; unomaha.edu; dkim=none (message not
+ signed) header.d=none;unomaha.edu; dmarc=none action=none
+ header.from=whitehouse.gov;
+Received-SPF: None (protection.outlook.com: loki.ist.unomaha.edu does not
+ designate permitted sender hosts)
+Received: from mx0b-00261b01.pphosted.com (148.163.152.157) by
+ BY2NAM01FT042.mail.protection.outlook.com (10.152.68.172) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.1240.9 via Frontend Transport; Wed, 12 Jul 2017 22:49:15 +0000
+Received: from pps.filterd (m0104361.ppops.net [127.0.0.1])
+    by mx0b-00261b01.pphosted.com (8.16.0.21/8.16.0.21) with SMTP id v6CMlhnA032537
+    for <smartprof@unomaha.edu>; Wed, 12 Jul 2017 17:49:15 -0500
+Authentication-Results-Original: ppops.net;    spf=none
+ smtp.mailfrom=smartprof@loki.ist.unomaha.edu
+Received: from loki.ist.unomaha.edu (loki.ist.unomaha.edu [137.48.187.123])
+    by mx0b-00261b01.pphosted.com with ESMTP id 2bnsq8rykp-1
+    for <smartprof@unomaha.edu>; Wed, 12 Jul 2017 17:49:15 -0500
+Received: by loki.ist.unomaha.edu (Postfix, from userid 13823)
+    id 958031E5EE0; Wed, 12 Jul 2017 17:49:14 -0500 (CDT)
+To: <smartprof@unomaha.edu>
+Subject: Make Cybersecurity Great Again!
+X-PHP-Originating-Script: 13823:spoof.php
+From: Donald Trump <therealdonaldtrump@whitehouse.gov>
+Reply-To: Robin Gandhi <smartprof@unomaha.edu>
+Content-Type: text/html; charset="ISO-8859-1"
+Message-ID: <20170712224914.958031E5EE0@loki.ist.unomaha.edu>
+Date: Wed, 12 Jul 2017 17:49:14 -0500
+X-Proofpoint-Spam-Details: rule=inbound_notspam policy=inbound score=1 priorityscore=0 malwarescore=0
+ suspectscore=10 phishscore=0 bulkscore=0 spamscore=1 clxscore=195
+ lowpriorityscore=0 impostorscore=0 adultscore=0 classifier=spam adjust=0
+ reason=mlx scancount=1 engine=8.0.1-1706020000 definitions=main-1707120363
+Return-Path: smartprof@loki.ist.unomaha.edu
+X-MS-Exchange-Organization-Network-Message-Id: c0790240-3fdc-4b35-078d-08d4c9783957
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: f1f4be86-d048-47e8-aa26-15b01dcdb13d:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-Forefront-Antispam-Report: CIP:148.163.152.157;IPV:NLI;CTRY:US;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:CY1PR0701MB1819;H:mx0b-00261b01.pphosted.com;FPR:;SPF:None;LANG:en;
+MIME-Version: 1.0
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">    </head>    <body style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" class="">    Dear Dr. Gandhi,<br class="">    <br class="">    You are doing very very good work with the Gencyber Camp.&nbsp;<br class="">    Just let me know what you need to make it bigly successful next year!<br class="">    Please put in your funding request here:&nbsp;<a href="https://robinagandhi.github.io/phishing-demo/encoding.html" class="">Grant Application</a><br class=""> <br class=""><div class="">~Yours Truly<br class=""><font color="#ff2600" class="">Donald</font></div></body></html>
