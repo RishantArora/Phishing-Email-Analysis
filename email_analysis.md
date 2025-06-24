@@ -6,7 +6,7 @@ This document contains an analysis of multiple phishing email samples. Each samp
 
 ## 1️⃣ Sample 1 – Facebook Scam Email
 
-![Facebook Phishing Email](image.png)
+![Facebook Phishing Email](image1.png)
 
 **Phishing Indicators:**
 - Misleading display link: the domain appears to be "facebook" but is actually `faceßook.com.opt`, which is suspicious.
