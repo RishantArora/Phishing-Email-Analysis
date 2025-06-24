@@ -37,4 +37,16 @@ This document contains an analysis of multiple phishing email samples. Each samp
 - Threatens account lockout within 1 hour, which is classic phishing pressure tactic.
 - URL provided is unrelated (`wikipedia.org`) – this could be an evasion trick or bait.
 
----
+## 4️⃣ Email Header Analysis
+
+The raw email header is saved in [`header.txt`](header.txt) for reference.
+
+### MXToolbox Header Analysis
+
+![MXToolbox Result](mx.png)
+
+**Findings:**
+- SPF: Fail
+- DKIM: Fail
+- DMARC: Fail
+  
