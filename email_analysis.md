@@ -6,7 +6,7 @@ This document contains an analysis of multiple phishing email samples. Each samp
 
 ## 1️⃣ Sample 1 – Facebook Scam Email
 
-![Facebook Phishing Email](image1.png)
+![Facebook Phishing Email](assets/image1.png)
 
 **Phishing Indicators:**
 - Misleading display link: the domain appears to be "facebook" but is actually `faceßook.com.opt`, which is suspicious.
@@ -17,7 +17,7 @@ This document contains an analysis of multiple phishing email samples. Each samp
 
 ## 2️⃣ Sample 2 – University Password Expiry Notice
 
-![University Email Phish](image2.png)
+![University Email Phish](assets/image2.png)
 
 **Phishing Indicators:**
 - Uses urgency: "Your password will expire in 1 day(s)" to create panic.
@@ -29,7 +29,7 @@ This document contains an analysis of multiple phishing email samples. Each samp
 
 ## 3️⃣ Sample 3 – Fake Mastercard Reset Email
 
-![Mastercard Email Phish](image3.png)
+![Mastercard Email Phish](assets/image3.png)
 
 **Phishing Indicators:**
 - Sender uses a free email domain (`@gmail.com`) for an official-looking message.
@@ -39,7 +39,7 @@ This document contains an analysis of multiple phishing email samples. Each samp
 
 ## 4️⃣ Email Header Analysis
 
-The raw email header is saved in [`header.txt`](header.txt) for reference.
+The raw email header is saved in [`header.txt`](assets/header.txt) for reference.
 
 ### MXToolbox Header Analysis
 
