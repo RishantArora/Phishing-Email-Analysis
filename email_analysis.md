@@ -43,7 +43,7 @@ The raw email header is saved in [`header.txt`](assets/header.txt) for reference
 
 ### MXToolbox Header Analysis
 
-![MXToolbox Result](mx.png)
+![MXToolbox Result](assets/mx.png)
 
 **Findings:**
 - SPF: Fail
