@@ -39,7 +39,7 @@ This document contains an analysis of multiple phishing email samples. Each samp
 
 ## 4️⃣ Email Header Analysis
 
-The raw email header is saved in [`header.txt`](assets/header.txt) for reference.
+The sample phishing email header is saved in [`header.txt`](assets/header.txt) for reference.
 
 ### MXToolbox Header Analysis
 
